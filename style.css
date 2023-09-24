@@ -13,14 +13,38 @@ img {
     object-fit: cover;
     width: 350px;
     height: 350px;
+    border: cornsilk;
+    border-radius: 10px;
 }
 
 h1 {
     font-size: 65px;
     text-align: 60%, 40%;
+    color: darkslategrey;
+    background-color: cornsilk;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-decoration: wavy;
 }
 
 a {
     font-size: 22px;
     font-weight: bold;
+}
+
+button {
+    border: none;
+    background-color: cornsilk;
+    color: darkslategrey;
+    padding: 15px 32px;
+    border-width: thick;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+marquee {
+    color: cornsilk;
+    padding-bottom: 35px;
+    font-size: 18px;
 }
