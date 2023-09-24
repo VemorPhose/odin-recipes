@@ -7,6 +7,7 @@
 
 ul, ol {
     list-style-position: inside;
+    font-size: 18px;
 }
 
 img {
@@ -15,6 +16,8 @@ img {
     height: 350px;
     border: cornsilk;
     border-radius: 10px;
+    border-style: inset;
+    border-width: 10px;
 }
 
 h1 {
@@ -40,11 +43,19 @@ button {
     border-width: thick;
     font-size: 18px;
     text-decoration: none;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 marquee {
     color: cornsilk;
     padding-bottom: 35px;
     font-size: 18px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
 }
