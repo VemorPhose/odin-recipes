@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    background-color: darkslategrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornsilk;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+img {
+    object-fit: cover;
+    width: 350px;
+    height: 350px;
+}
+
+h1 {
+    font-size: 65px;
+    text-align: 60%, 40%;
+}
+
+a {
+    font-size: 22px;
+    font-weight: bold;
+}
